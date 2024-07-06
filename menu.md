@@ -1,9 +1,9 @@
 # 项目目录说明文档
 
 > app 存放应用代码。
->> controller 控制器代码<br>
+>> controller 控制器代码(Admin中含有系统目录API)<br>
   model 数据库操作<br>
-  view 前端页面
+  view 前端页面（各个目录中保存各个控制器模板）
 
 > config 配置目录，存放项目的配置文件。例如数据库配置、缓存配置等。
 
