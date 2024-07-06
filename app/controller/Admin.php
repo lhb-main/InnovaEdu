@@ -139,12 +139,6 @@ class Admin extends BaseController
                             "target" =>"",
                             "child" =>[
                                 [
-                                    "title" =>"按钮示例",
-                                    "href" =>"page/button.html",
-                                    "icon" =>"fa fa-snowflake-o",
-                                    "target" =>"_self"
-                                ],
-                                [
                                     "title" =>"弹出层",
                                     "href" =>"page/layer.html",
                                     "icon" =>"fa fa-shield",
